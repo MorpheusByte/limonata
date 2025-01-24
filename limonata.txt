@@ -4,3 +4,4 @@
 4.Vs Code geçildi
 5.commit
 6.yeni kodlar
+7.h01 lşimdi oldu galiba
