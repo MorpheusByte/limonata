@@ -5,3 +5,4 @@
 5.commit
 6.yeni kodlar
 7.h01 lşimdi oldu galiba
+8.h02 olustu
